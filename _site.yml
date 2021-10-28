@@ -1,0 +1,17 @@
+name: "Aliya's Website"
+navbar:
+  title: "This is my website, look at it!"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: index2.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<aliya.caldwell@unh.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/<aliya-caldwell>/
+  
+output:
+  html_document:
+    theme: flatly

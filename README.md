@@ -1,2 +1,2 @@
-# Aliya-Caldwell.github.io
-My website BIOL 806
+# aliya-caldwell.github.io
+Aliya Caldwell Personal Website

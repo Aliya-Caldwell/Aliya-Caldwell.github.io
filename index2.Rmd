@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+
+My research explores seabird movement and trophic ecology as it relates to fisheries monitoring. Specifically, I investigate how seabirds utilize their foraging environment, how seabirds select prey items from their environment, and how those two pieces of information can helps us utilize seabird diet as a fisheries monitor and predictor.
+
+
+Here are photos of some of my study species:
+
+![Common Tern](files/common.jpg){width=250px}   ![Roseate Tern](files/roseate.jpg){width=250px}   ![Roseate Tern (left) and Common Tern (right) chicks](files/ternchicks.jpg){width=250px}
+
+
+![Atlantic herring](files/herring.jpg){width=250px}   ![Silver hake](files/hake.jpg){width=250px}   ![Three-spine stickleback](files/stickleback.jpg){width=250px}
+
+
+![Northern pipefish](files/pipefish.jpg){width=250px}   ![Atlantic silverside](files/silverside.jpg){width=250px}   ![Atlantic mackerel](files/mackerel.jpg){width=250px}
+
+
+![](files/sandlance.jpg){width=250px}
+
+
+
+
+
+
+Lastly, here is the coolest fish ever, a flying gurnard
+
+![](files/gurnard.jpg){width=250px}
