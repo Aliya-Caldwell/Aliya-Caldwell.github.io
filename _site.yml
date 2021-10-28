@@ -3,9 +3,9 @@ navbar:
   title: "This is my website, look at it!"
   left:
     - text: "Home"
-      href: index.html
+      href: _site/index.html
     - text: "Research"
-      href: index2.html
+      href: _site/index2.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<aliya.caldwell@unh.edu>
